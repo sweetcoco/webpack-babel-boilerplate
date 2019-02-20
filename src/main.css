@@ -2,3 +2,9 @@ body {
     min-height: 100vh;
     background-color: aquamarine;
 }
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

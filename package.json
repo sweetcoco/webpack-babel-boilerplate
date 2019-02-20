@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "webpack-dev-server --mode=development --config webpack.config.js",
-    "build": "webpack --mode=production --config webpack.config.js"
+    "build": "webpack --mode=production -p --config webpack.config.js"
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",

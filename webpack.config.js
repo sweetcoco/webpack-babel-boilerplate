@@ -50,7 +50,7 @@ const config = {
         version: false,
     }
   },
-  watch: true,
+  watch: false,
   devtool: 'source-map',
 };
 

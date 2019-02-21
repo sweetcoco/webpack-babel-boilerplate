@@ -5,4 +5,4 @@ const main = async () => {
     HelloWorld();
 }
 
-main();
+main().then(() => console.log('Started'));

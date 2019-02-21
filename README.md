@@ -17,7 +17,7 @@ npm run build
 ```
 
 ## Quick Note
-This boilerplate assumes your app is going to in /src.
+This boilerplate assumes your app code lives in /src.
 
 /src contains some sample code to show es6 features. 
 
